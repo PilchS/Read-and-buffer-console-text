@@ -7,3 +7,5 @@ Similarly, ”log1.txt” should be copied onto ”log2.txt”, and so on, thus 
 the newest log. The last file should be ”log5.txt” and its content is always removed. Provide
 appropriate exceptions to handle the situations, when one of the log files is opened by another
 application, and cannot be removed, or you do not have an access to that file
+
+## In folder where you have that code there should be another folder called "data"
